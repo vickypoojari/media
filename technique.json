@@ -5,7 +5,7 @@
       "name": "Finding My Voice",
       "shortDescription": null,
       "longDescription": null,
-      "techniqueInstructions": [
+     "techniqueInstructions": [
         {
           "techniqueInteractionType": {
             "name": "Intro",
@@ -20,6 +20,21 @@
           "mediaFile": null,
           "sequenceNo": 1,
           "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+        },
+        {
+          "techniqueInteractionType": {
+            "name": "UserAction-Feeling-Pre",
+            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+          },
+          "name": "UserAction-Feeling-Pre",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": true,
+          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+          "text": null,
+          "media": null,
+          "mediaFile": null,
+          "sequenceNo": 2,
+          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
         },
         {
           "techniqueInteractionType": {
@@ -38,51 +53,6 @@
         },
         {
           "techniqueInteractionType": {
-            "name": "Video",
-            "id": "42f8d1c9-d343-489c-a0cc-39fa5816d5b8"
-          },
-          "name": "Playback",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "42f8d1c9-d343-489c-a0cc-39fa5816d5b8",
-          "text": null,
-          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-          "mediaFile": null,
-          "sequenceNo": 4,
-          "id": "e565e2e0-7871-3acc-8cde-39fa5816d684"
-        },
-        {
-          "techniqueInteractionType": {
-            "name": "Text",
-            "id": "f2b51587-4b3d-7ec6-df5f-39fa5816d5c2"
-          },
-          "name": "Playback",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "f2b51587-4b3d-7ec6-df5f-39fa5816d5c2",
-          "text": "Nikhil, are there people in your life you'd like to say no to, but can't? Friends? Family? Girlfriend? Boyfriend?\" Saying no can be hard.Believe it or not it is a learned skill, and most of us have in this area.Like riding a bike,",
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 5,
-          "id": "bc13ced3-e00e-1269-1de5-39fa5816d69b"
-        },
-        {
-          "techniqueInteractionType": {
-            "name": "UserAction",
-            "id": "40dfc021-9bd7-d3fc-080e-39fa5816d5cc"
-          },
-          "name": "UserAction",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "40dfc021-9bd7-d3fc-080e-39fa5816d5cc",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 6,
-          "id": "801149b3-b90a-bb36-3c3f-39fa5816d6af"
-        },
-        {
-          "techniqueInteractionType": {
             "name": "UserAction-Echo",
             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
           },
@@ -93,7 +63,7 @@
           "text": null,
           "media": null,
           "mediaFile": null,
-          "sequenceNo": 7,
+          "sequenceNo": 4,
           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
         },
         {
@@ -108,11 +78,11 @@
           "text": null,
           "media": null,
           "mediaFile": null,
-          "sequenceNo": 8,
+          "sequenceNo": 5,
           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
         }
       ],
-      "id": "e0e4567a-ca51-2d34-03b4-39fa2bc8bd57"
+       "id": "e0e4567a-ca51-2d34-03b4-39fa2bc8bd57"
     },
     {
       "name": "Have Clear Boundaries",
@@ -166,51 +136,6 @@
         },
         {
           "techniqueInteractionType": {
-            "name": "Video",
-            "id": "42f8d1c9-d343-489c-a0cc-39fa5816d5b8"
-          },
-          "name": "Playback",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "42f8d1c9-d343-489c-a0cc-39fa5816d5b8",
-          "text": null,
-          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-          "mediaFile": null,
-          "sequenceNo": 4,
-          "id": "e565e2e0-7871-3acc-8cde-39fa5816d684"
-        },
-        {
-          "techniqueInteractionType": {
-            "name": "Text",
-            "id": "f2b51587-4b3d-7ec6-df5f-39fa5816d5c2"
-          },
-          "name": "Playback",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "f2b51587-4b3d-7ec6-df5f-39fa5816d5c2",
-          "text": "Nikhil, are there people in your life you'd like to say no to, but can't? Friends? Family? Girlfriend? Boyfriend?\" Saying no can be hard.Believe it or not it is a learned skill, and most of us have in this area.Like riding a bike,",
-          "media": null,
-          "mediaFile": "null",
-          "sequenceNo": 5,
-          "id": "bc13ced3-e00e-1269-1de5-39fa5816d69b"
-        },
-        {
-          "techniqueInteractionType": {
-            "name": "UserAction",
-            "id": "40dfc021-9bd7-d3fc-080e-39fa5816d5cc"
-          },
-          "name": "UserAction",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "40dfc021-9bd7-d3fc-080e-39fa5816d5cc",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 6,
-          "id": "801149b3-b90a-bb36-3c3f-39fa5816d6af"
-        },
-        {
-          "techniqueInteractionType": {
             "name": "UserAction-Echo",
             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
           },
@@ -221,7 +146,7 @@
           "text": null,
           "media": null,
           "mediaFile": null,
-          "sequenceNo": 7,
+          "sequenceNo": 4,
           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
         },
         {
@@ -236,7 +161,7 @@
           "text": null,
           "media": null,
           "mediaFile": null,
-          "sequenceNo": 8,
+          "sequenceNo": 5,
           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
         }
       ],

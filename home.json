@@ -1,0 +1,30 @@
+{"home":{
+  "media_url" : "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+  "header" : "Good Afternoon, Dr Vicky",
+  "title" : "Listen",
+  "subtitle" : "Be Positive.Test Negative."
+} ,
+"reminders":[
+  {
+          "title": "Appointment with Pam Rau"
+  },
+  {
+          "title": "Appointment with Brandon Reed"
+  },
+  {
+          "title": "Appointment with Vicky"
+  },
+  {
+          "title": "Appointment with Paul Heyman"
+  }
+        ],
+"communities":[],
+"help":{
+   "media" : "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+  "title" : "Reach your Entrepreneurial Goals & Join Certified Counseling Field!",
+  "desc" : "Bureau of Labor Statistics Predicts Job Growth of 31% by 2022.",
+  "button_desc" : "Get Licensed"
+},
+"counselors":[]
+}
+  

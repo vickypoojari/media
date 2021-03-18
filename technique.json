@@ -8,21 +8,6 @@
      "techniqueInstructions": [
         {
           "techniqueInteractionType": {
-            "name": "Intro",
-            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-          },
-          "name": "Intro",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-          "text": null,
-          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-          "mediaFile": null,
-          "sequenceNo": 1,
-          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
-        },
-        {
-          "techniqueInteractionType": {
             "name": "UserAction-Feeling-Pre",
             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
           },
@@ -33,8 +18,23 @@
           "text": null,
           "media": null,
           "mediaFile": null,
-          "sequenceNo": 2,
+          "sequenceNo": 1,
           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+        },
+       {
+          "techniqueInteractionType": {
+            "name": "Intro",
+            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+          },
+          "name": "Intro",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": false,
+          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+          "text": null,
+          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+          "mediaFile": null,
+          "sequenceNo": 2,
+          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
         },
         {
           "techniqueInteractionType": {
@@ -89,22 +89,7 @@
       "shortDescription": null,
       "longDescription": null,
       "techniqueInstructions": [
-        {
-          "techniqueInteractionType": {
-            "name": "Intro",
-            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-          },
-          "name": "Intro",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-          "text": null,
-          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-          "mediaFile": null,
-          "sequenceNo": 1,
-          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
-        },
-        {
+         {
           "techniqueInteractionType": {
             "name": "UserAction-Feeling-Pre",
             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
@@ -116,8 +101,23 @@
           "text": null,
           "media": null,
           "mediaFile": null,
-          "sequenceNo": 2,
+          "sequenceNo": 1,
           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+        },
+       {
+          "techniqueInteractionType": {
+            "name": "Intro",
+            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+          },
+          "name": "Intro",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": false,
+          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+          "text": null,
+          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+          "mediaFile": null,
+          "sequenceNo": 2,
+          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
         },
         {
           "techniqueInteractionType": {

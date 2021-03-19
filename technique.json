@@ -136,10 +136,10 @@
         },
         {
           "techniqueInteractionType": {
-            "name": "UserAction-Echo",
+            "name": "UserAction-Reflection",
             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
           },
-          "name": "UserAction-Echo",
+          "name": "UserAction-Reflection",
           "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
           "isInteractive": true,
           "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",

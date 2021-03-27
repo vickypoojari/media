@@ -5,6 +5,7 @@
       "name": "Finding My Voice",
       "shortDescription": "No Means No?",
       "longDescription": null,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_1.webp",
      "techniqueInstructions": [
         {
           "techniqueInteractionType": {
@@ -88,6 +89,7 @@
       "name": "Have Clear Boundaries",
       "shortDescription": "No Means No?",
       "longDescription": null,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_2.webp",
       "techniqueInstructions": [
          {
           "techniqueInteractionType": {
@@ -171,6 +173,7 @@
       "name": "Know Thyself",
       "shortDescription": "No Means No?",
       "longDescription": null,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_3.webp",
       "techniqueInstructions": [
          {
           "techniqueInteractionType": {
@@ -269,6 +272,7 @@
       "name": "Listen",
       "shortDescription": null,
       "longDescription": null,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_4.webp",
       "techniqueInstructions": [],
       "id": "80f10233-5e8f-3f1a-7bdd-39fa2bc8bd3b"
     },
@@ -276,6 +280,7 @@
       "name": "There are Ups and Down in Life",
       "shortDescription": null,
       "longDescription": null,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_5.webp",
       "techniqueInstructions": [],
       "id": "68e2a439-cc5b-7a3f-3728-39fa2bc8bc56"
     },
@@ -283,6 +288,7 @@
       "name": "Turning from you Old Perspective",
       "shortDescription": null,
       "longDescription": null,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_6.webp",
       "techniqueInstructions": [],
       "id": "b2552a0b-157d-8342-987a-39fa2bc8bb22"
     },
@@ -290,6 +296,7 @@
       "name": "Turning to Your New Perspective",
       "shortDescription": null,
       "longDescription": null,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_7.webp",
       "techniqueInstructions": [],
       "id": "3a3e0c6d-218e-c6fb-9241-39fa2bc8bd64"
     },
@@ -297,6 +304,7 @@
       "name": "Withhold Judgment",
       "shortDescription": null,
       "longDescription": null,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_8.webp",
       "techniqueInstructions": [],
       "id": "10f562b2-ba53-8998-5069-39fa2bc8bc63"
     },
@@ -304,6 +312,7 @@
       "name": "You Don't Need to Have All the Answers",
       "shortDescription": null,
       "longDescription": null,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_9.webp",
       "techniqueInstructions": [],
       "id": "5404346b-c2c1-d7b0-bebc-39fa2bc8bc73"
     }

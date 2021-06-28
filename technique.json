@@ -7,21 +7,7 @@
       "longDescription": null,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_1.webp",
      "techniqueInstructions": [
-        {
-          "techniqueInteractionType": {
-            "name": "UserAction-Feeling-Pre",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-          },
-          "name": "UserAction-Feeling-Pre",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 1,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-        },
+        
        {
           "techniqueInteractionType": {
             "name": "Intro",
@@ -36,6 +22,21 @@
           "mediaFile": null,
           "sequenceNo": 2,
           "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+        },
+       {
+          "techniqueInteractionType": {
+            "name": "UserAction-Feeling-Pre",
+            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+          },
+          "name": "UserAction-Feeling-Pre",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": true,
+          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+          "text": null,
+          "media": null,
+          "mediaFile": null,
+          "sequenceNo": 1,
+          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
         },
         {
           "techniqueInteractionType": {

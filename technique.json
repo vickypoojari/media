@@ -5,8 +5,9 @@
       "name": "Finding My Voice",
       "shortDescription": "No Means No?",
       "longDescription": null,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_1.webp",
-     "techniqueInstructions": [
+      "techniqueInstructions": [
         {
           "techniqueInteractionType": {
             "name": "Intro",
@@ -90,6 +91,7 @@
       "name": "Have Clear Boundaries",
       "shortDescription": "No Means No?",
       "longDescription": null,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_2.webp",
       "techniqueInstructions": [
          {
@@ -174,6 +176,7 @@
       "name": "Know Thyself",
       "shortDescription": "No Means No?",
       "longDescription": null,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_3.webp",
       "techniqueInstructions": [
          {
@@ -273,14 +276,62 @@
       "name": "Listen",
       "shortDescription": null,
       "longDescription": null,
+      "isInteractive": true,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_4.webp",
-      "techniqueInstructions": [],
+      "techniqueInstructions": [
+         {
+          "techniqueInteractionType": {
+            "name": "UserAction-Feeling-Pre",
+            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+          },
+          "name": "UserAction-Feeling-Pre",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": true,
+          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+          "text": null,
+          "media": null,
+          "mediaFile": null,
+          "sequenceNo": 1,
+          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+        },
+       {
+          "techniqueInteractionType": {
+            "name": "Intro",
+            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+          },
+          "name": "Intro",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": false,
+          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+          "text": null,
+          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+          "mediaFile": null,
+          "sequenceNo": 2,
+          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+        },
+        {
+          "techniqueInteractionType": {
+            "name": "UserAction-Feeling-Post",
+            "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+          },
+          "name": "UserAction-Feeling-Post",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": true,
+          "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+          "text": null,
+          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+          "sequenceNo": 3,
+          "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+        }
+      ],
       "id": "80f10233-5e8f-3f1a-7bdd-39fa2bc8bd3b"
     },
     {
       "name": "There are Ups and Down in Life",
       "shortDescription": null,
-      "longDescription": null,
+      "longDescription": null
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_5.webp",
       "techniqueInstructions": [],
       "id": "68e2a439-cc5b-7a3f-3728-39fa2bc8bc56"
@@ -289,6 +340,7 @@
       "name": "Turning from you Old Perspective",
       "shortDescription": null,
       "longDescription": null,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_6.webp",
       "techniqueInstructions": [],
       "id": "b2552a0b-157d-8342-987a-39fa2bc8bb22"
@@ -297,6 +349,7 @@
       "name": "Turning to Your New Perspective",
       "shortDescription": null,
       "longDescription": null,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_7.webp",
       "techniqueInstructions": [],
       "id": "3a3e0c6d-218e-c6fb-9241-39fa2bc8bd64"
@@ -313,6 +366,7 @@
       "name": "You Don't Need to Have All the Answers",
       "shortDescription": null,
       "longDescription": null,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_9.webp",
       "techniqueInstructions": [],
       "id": "5404346b-c2c1-d7b0-bebc-39fa2bc8bc73"

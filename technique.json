@@ -1,376 +1,377 @@
 {
-  "totalCount": 9,
-  "items": [
-    {
-      "name": "Finding My Voice",
-      "shortDescription": "No Means No?",
-      "longDescription": null,
-      "isInteractive": false,
-      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_1.webp",
-      "techniqueInstructions": [
-        {
-          "techniqueInteractionType": {
+    "totalCount": 9,
+    "items": [
+      {
+        "name": "Finding My Voice",
+        "shortDescription": "No Means No?",
+        "longDescription": null,
+        "isInteractive": false,
+        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_1.webp",
+        "techniqueInstructions": [
+          {
+            "techniqueInteractionType": {
+              "name": "Intro",
+              "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+            },
             "name": "Intro",
-            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": false,
+            "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+            "text": null,
+            "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+            "mediaFile": null,
+            "sequenceNo": 2,
+            "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
           },
-          "name": "Intro",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-          "text": null,
-          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-          "mediaFile": null,
-          "sequenceNo": 2,
-          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
-        },
-       {
-          "techniqueInteractionType": {
+         {
+            "techniqueInteractionType": {
+              "name": "UserAction-Feeling-Pre",
+              "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+            },
             "name": "UserAction-Feeling-Pre",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+            "text": null,
+            "media": null,
+            "mediaFile": null,
+            "sequenceNo": 1,
+            "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
           },
-          "name": "UserAction-Feeling-Pre",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 1,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-        },
-        {
-          "techniqueInteractionType": {
-            "name": "Audio",
-            "id": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad"
+          {
+            "techniqueInteractionType": {
+              "name": "Audio",
+              "id": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad"
+            },
+            "name": "Playback",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": false,
+            "interactionTypeId": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad",
+            "text": null,
+            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+            "sequenceNo": 3,
+            "id": "95d74066-8739-37ee-df95-39fa5816d66e"
           },
-          "name": "Playback",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-          "sequenceNo": 3,
-          "id": "95d74066-8739-37ee-df95-39fa5816d66e"
-        },
-             {
-          "techniqueInteractionType": {
+               {
+            "techniqueInteractionType": {
+              "name": "UserAction-Echo",
+              "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+            },
             "name": "UserAction-Echo",
-            "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+            "text": null,
+            "media": null,
+            "mediaFile": null,
+            "sequenceNo": 4,
+            "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
           },
-          "name": "UserAction-Echo",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 4,
-          "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
-        },
-        {
-          "techniqueInteractionType": {
+          {
+            "techniqueInteractionType": {
+              "name": "UserAction-Feeling-Post",
+              "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+            },
             "name": "UserAction-Feeling-Post",
-            "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-          },
-          "name": "UserAction-Feeling-Post",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-          "sequenceNo": 5,
-          "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-        }
-
-      ],
-       "id": "e0e4567a-ca51-2d34-03b4-39fa2bc8bd57"
-    },
-    {
-      "name": "Have Clear Boundaries",
-      "shortDescription": "No Means No?",
-      "longDescription": null,
-      "isInteractive": false,
-      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_2.webp",
-      "techniqueInstructions": [
-         {
-          "techniqueInteractionType": {
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+            "text": null,
+            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+            "sequenceNo": 5,
+            "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+          }
+  
+        ],
+         "id": "e0e4567a-ca51-2d34-03b4-39fa2bc8bd57"
+      },
+      {
+        "name": "Have Clear Boundaries",
+        "shortDescription": "No Means No?",
+        "longDescription": null,
+        "isInteractive": false,
+        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_2.webp",
+        "techniqueInstructions": [
+           {
+            "techniqueInteractionType": {
+              "name": "UserAction-Feeling-Pre",
+              "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+            },
             "name": "UserAction-Feeling-Pre",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+            "text": null,
+            "media": null,
+            "mediaFile": null,
+            "sequenceNo": 1,
+            "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
           },
-          "name": "UserAction-Feeling-Pre",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 1,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-        },
-       {
-          "techniqueInteractionType": {
+         {
+            "techniqueInteractionType": {
+              "name": "Intro",
+              "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+            },
             "name": "Intro",
-            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": false,
+            "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+            "text": null,
+            "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+            "mediaFile": null,
+            "sequenceNo": 2,
+            "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
           },
-          "name": "Intro",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-          "text": null,
-          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-          "mediaFile": null,
-          "sequenceNo": 2,
-          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
-        },
-        {
-          "techniqueInteractionType": {
-            "name": "Audio",
-            "id": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad"
+          {
+            "techniqueInteractionType": {
+              "name": "Audio",
+              "id": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad"
+            },
+            "name": "Playback",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": false,
+            "interactionTypeId": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad",
+            "text": null,
+            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+            "sequenceNo": 3,
+            "id": "95d74066-8739-37ee-df95-39fa5816d66e"
           },
-          "name": "Playback",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-          "sequenceNo": 3,
-          "id": "95d74066-8739-37ee-df95-39fa5816d66e"
-        },
-        {
-          "techniqueInteractionType": {
+          {
+            "techniqueInteractionType": {
+              "name": "UserAction-Reflection",
+              "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+            },
             "name": "UserAction-Reflection",
-            "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+            "text": null,
+            "media": null,
+            "mediaFile": null,
+            "sequenceNo": 4,
+            "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
           },
-          "name": "UserAction-Reflection",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 4,
-          "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
-        },
-        {
-          "techniqueInteractionType": {
+          {
+            "techniqueInteractionType": {
+              "name": "UserAction-Feeling-Post",
+              "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+            },
             "name": "UserAction-Feeling-Post",
-            "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-          },
-          "name": "UserAction-Feeling-Post",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-          "sequenceNo": 5,
-          "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-        }
-      ],
-      "id": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49"
-    },
-    {
-      "name": "Know Thyself",
-      "shortDescription": "No Means No?",
-      "longDescription": null,
-      "isInteractive": false,
-      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_3.webp",
-      "techniqueInstructions": [
-         {
-          "techniqueInteractionType": {
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+            "text": null,
+            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+            "sequenceNo": 5,
+            "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+          }
+        ],
+        "id": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49"
+      },
+      {
+        "name": "Know Thyself",
+        "shortDescription": "No Means No?",
+        "longDescription": null,
+        "isInteractive": false,
+        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_3.webp",
+        "techniqueInstructions": [
+           {
+            "techniqueInteractionType": {
+              "name": "UserAction-Feeling-Pre",
+              "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+            },
             "name": "UserAction-Feeling-Pre",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+            "text": null,
+            "media": null,
+            "mediaFile": null,
+            "sequenceNo": 1,
+            "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
           },
-          "name": "UserAction-Feeling-Pre",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 1,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-        },
-       {
-          "techniqueInteractionType": {
+         {
+            "techniqueInteractionType": {
+              "name": "Intro",
+              "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+            },
             "name": "Intro",
-            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": false,
+            "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+            "text": null,
+            "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+            "mediaFile": null,
+            "sequenceNo": 2,
+            "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
           },
-          "name": "Intro",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-          "text": null,
-          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-          "mediaFile": null,
-          "sequenceNo": 2,
-          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
-        },
-        {
-          "techniqueInteractionType": {
-            "name": "Audio",
-            "id": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad"
+          {
+            "techniqueInteractionType": {
+              "name": "Audio",
+              "id": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad"
+            },
+            "name": "Playback",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": false,
+            "interactionTypeId": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad",
+            "text": null,
+            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+            "sequenceNo": 3,
+            "id": "95d74066-8739-37ee-df95-39fa5816d66e"
           },
-          "name": "Playback",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "18c0185a-7ba5-06aa-93b9-39fa5816d5ad",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-          "sequenceNo": 3,
-          "id": "95d74066-8739-37ee-df95-39fa5816d66e"
-        },
-        {
-          "techniqueInteractionType": {
+          {
+            "techniqueInteractionType": {
+              "name": "UserAction",
+              "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+            },
             "name": "UserAction",
-            "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+            "text": null,
+            "media": null,
+            "mediaFile": null,
+            "sequenceNo": 4,
+            "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
           },
-          "name": "UserAction",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 4,
-          "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
-        },
-                {
-          "techniqueInteractionType": {
+                  {
+            "techniqueInteractionType": {
+              "name": "UserActionType",
+              "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+            },
             "name": "UserActionType",
-            "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+            "text": null,
+            "media": null,
+            "mediaFile": null,
+            "sequenceNo": 4,
+            "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
           },
-          "name": "UserActionType",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 4,
-          "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
-        },
-        {
-          "techniqueInteractionType": {
+          {
+            "techniqueInteractionType": {
+              "name": "UserAction-Feeling-Post",
+              "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+            },
             "name": "UserAction-Feeling-Post",
-            "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+            "text": null,
+            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+            "sequenceNo": 5,
+            "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+          }
+        ],
+        "id": "b660068d-3252-8a5c-40b0-39fa2bc8bd47"
+      },
+      {
+        "name": "Listen",
+        "shortDescription": null,
+        "longDescription": null,
+        "isInteractive": true,
+        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_4.webp",
+        "techniqueInstructions": [
+           {
+            "techniqueInteractionType": {
+              "name": "Technique One",
+              "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+            },
+            "name": "Technique One",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+            "text": null,
+            "media": null,
+            "mediaFile": null,
+            "sequenceNo": 1,
+            "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
           },
-          "name": "UserAction-Feeling-Post",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-          "sequenceNo": 5,
-          "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-        }
-      ],
-      "id": "b660068d-3252-8a5c-40b0-39fa2bc8bd47"
-    },
-    {
-      "name": "Listen",
-      "shortDescription": null,
-      "longDescription": null,
-      "isInteractive": true,
-      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_4.webp",
-      "techniqueInstructions": [
          {
-          "techniqueInteractionType": {
-            "name": "UserAction-Feeling-Pre",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+            "techniqueInteractionType": {
+              "name": "Technique Two",
+              "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
+            },
+            "name": "Technique Two",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": false,
+            "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+            "text": null,
+            "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+            "mediaFile": null,
+            "sequenceNo": 2,
+            "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
           },
-          "name": "UserAction-Feeling-Pre",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-          "text": null,
-          "media": null,
-          "mediaFile": null,
-          "sequenceNo": 1,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-        },
-       {
-          "techniqueInteractionType": {
-            "name": "Intro",
-            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-          },
-          "name": "Intro",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": false,
-          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-          "text": null,
-          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-          "mediaFile": null,
-          "sequenceNo": 2,
-          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
-        },
-        {
-          "techniqueInteractionType": {
-            "name": "UserAction-Feeling-Post",
-            "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-          },
-          "name": "UserAction-Feeling-Post",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-          "sequenceNo": 3,
-          "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-        }
-      ],
-      "id": "80f10233-5e8f-3f1a-7bdd-39fa2bc8bd3b"
-    },
-    {
-      "name": "There are Ups and Down in Life",
-      "shortDescription": null,
-      "longDescription": null,
-      "isInteractive": false,
-      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_5.webp",
-      "techniqueInstructions": [],
-      "id": "68e2a439-cc5b-7a3f-3728-39fa2bc8bc56"
-    },
-    {
-      "name": "Turning from you Old Perspective",
-      "shortDescription": null,
-      "longDescription": null,
-      "isInteractive": false,
-      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_6.webp",
-      "techniqueInstructions": [],
-      "id": "b2552a0b-157d-8342-987a-39fa2bc8bb22"
-    },
-    {
-      "name": "Turning to Your New Perspective",
-      "shortDescription": null,
-      "longDescription": null,
-      "isInteractive": false,
-      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_7.webp",
-      "techniqueInstructions": [],
-      "id": "3a3e0c6d-218e-c6fb-9241-39fa2bc8bd64"
-    },
-    {
-      "name": "Withhold Judgment",
-      "shortDescription": null,
-      "longDescription": null,
-      "isInteractive": false,
-      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_8.webp",
-      "techniqueInstructions": [],
-      "id": "10f562b2-ba53-8998-5069-39fa2bc8bc63"
-    },
-    {
-      "name": "You Don't Need to Have All the Answers",
-      "shortDescription": null,
-      "longDescription": null,
-      "isInteractive": false,
-      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_9.webp",
-      "techniqueInstructions": [],
-      "id": "5404346b-c2c1-d7b0-bebc-39fa2bc8bc73"
-    }
-  ]
-}
+          {
+            "techniqueInteractionType": {
+              "name": "Technqiue Three",
+              "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+            },
+            "name": "Technqiue Three",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+            "isInteractive": true,
+            "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+            "text": null,
+            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+            "sequenceNo": 3,
+            "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+          }
+        ],
+        "id": "80f10233-5e8f-3f1a-7bdd-39fa2bc8bd3b"
+      },
+      {
+        "name": "There are Ups and Down in Life",
+        "shortDescription": null,
+        "longDescription": null,
+        "isInteractive": false,
+        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_5.webp",
+        "techniqueInstructions": [],
+        "id": "68e2a439-cc5b-7a3f-3728-39fa2bc8bc56"
+      },
+      {
+        "name": "Turning from you Old Perspective",
+        "shortDescription": null,
+        "longDescription": null,
+        "isInteractive": false,
+        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_6.webp",
+        "techniqueInstructions": [],
+        "id": "b2552a0b-157d-8342-987a-39fa2bc8bb22"
+      },
+      {
+        "name": "Turning to Your New Perspective",
+        "shortDescription": null,
+        "longDescription": null,
+        "isInteractive": false,
+        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_7.webp",
+        "techniqueInstructions": [],
+        "id": "3a3e0c6d-218e-c6fb-9241-39fa2bc8bd64"
+      },
+      {
+        "name": "Withhold Judgment",
+        "shortDescription": null,
+        "longDescription": null,
+        "isInteractive": false,
+        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_8.webp",
+        "techniqueInstructions": [],
+        "id": "10f562b2-ba53-8998-5069-39fa2bc8bc63"
+      },
+      {
+        "name": "You Don't Need to Have All the Answers",
+        "shortDescription": null,
+        "longDescription": null,
+        "isInteractive": false,
+        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_9.webp",
+        "techniqueInstructions": [],
+        "id": "5404346b-c2c1-d7b0-bebc-39fa2bc8bc73"
+      }
+    ]
+  }
+  

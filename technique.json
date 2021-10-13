@@ -289,8 +289,8 @@
             "isInteractive": true,
             "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
             "text": null,
-            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
             "sequenceNo": 1,
             "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
           },

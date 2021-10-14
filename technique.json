@@ -281,10 +281,10 @@
       "techniqueInstructions": [
          {
           "techniqueInteractionType": {
-            "name": "Technique One",
+            "name": "UserAction-Listen",
             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
           },
-          "name": "Technique One",
+          "name": "UserAction-Listen",
           "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
           "isInteractive": true,
           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
@@ -296,10 +296,10 @@
         },
        {
           "techniqueInteractionType": {
-            "name": "Technique Two",
+            "name": "UserAction-Text-Instruction-Text",
             "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
           },
-          "name": "Technique Two",
+          "name": "UserAction-Text-Instruction-Text",
           "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
           "isInteractive": false,
           "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
@@ -311,10 +311,25 @@
         },
         {
           "techniqueInteractionType": {
-            "name": "Technqiue Three",
+            "name": "UserAction-Echo",
+            "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+          },
+          "name": "UserAction-Echo",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": true,
+          "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+          "text": null,
+          "media": null,
+          "mediaFile": null,
+          "sequenceNo": 4,
+          "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+        },
+        {
+          "techniqueInteractionType": {
+            "name": "UserAction-Post",
             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
           },
-          "name": "Technqiue Three",
+          "name": "UserAction-Post",
           "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
           "isInteractive": true,
           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
@@ -336,10 +351,10 @@
       "techniqueInstructions": [
         {
          "techniqueInteractionType": {
-           "name": "Technique One",
+           "name": "UserAction-Listen",
            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
          },
-         "name": "Technique One",
+         "name": "UserAction-Listen",
          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
          "isInteractive": true,
          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
@@ -351,10 +366,10 @@
        },
       {
          "techniqueInteractionType": {
-           "name": "Instruction Video",
+           "name": "UserAction-Text-Instruction-Audio",
            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
          },
-         "name": "Instruction Video",
+         "name": "UserAction-Text-Instruction-Audio",
          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
          "isInteractive": false,
          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
@@ -366,10 +381,25 @@
        },
        {
          "techniqueInteractionType": {
-           "name": "Technqiue Three",
+           "name": "UserAction-Reflection",
+           "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+         },
+         "name": "UserAction-Reflection",
+         "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+         "text": null,
+         "media": null,
+         "mediaFile": null,
+         "sequenceNo": 4,
+         "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+       },
+       {
+         "techniqueInteractionType": {
+           "name": "UserAction-Post",
            "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
          },
-         "name": "Technqiue Three",
+         "name": "UserAction-Post",
          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
          "isInteractive": true,
          "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
@@ -388,38 +418,7 @@
       "longDescription": null,
       "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_6.webp",
-      "techniqueInstructions": [
-      {
-         "techniqueInteractionType": {
-           "name": "Instruction Video",
-           "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-         },
-         "name": "Instruction Video",
-         "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-         "isInteractive": false,
-         "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-         "text": null,
-         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
-         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.lrc",
-         "sequenceNo": 1,
-         "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
-       },
-       {
-         "techniqueInteractionType": {
-           "name": "Technqiue Three",
-           "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-         },
-         "name": "Technqiue Three",
-         "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-         "isInteractive": true,
-         "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-         "text": null,
-         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-         "sequenceNo": 2,
-         "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-       }
-     ],
+      "techniqueInstructions": [],
       "id": "b2552a0b-157d-8342-987a-39fa2bc8bb22"
     },
     {

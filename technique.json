@@ -359,8 +359,8 @@
          "isInteractive": false,
          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
          "text": null,
-         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instruction.mp3",
-         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/instruction.lrc",
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.lrc",
          "sequenceNo": 2,
          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
        },

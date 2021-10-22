@@ -149,7 +149,7 @@
       "longDescription": null,
       "isInteractive": true,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_3.webp",
-      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique3.json",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique10.json",
       "techniqueInstructions": [
         {
          "techniqueInteractionType": {
@@ -173,7 +173,7 @@
          },
          "name": "UserAction-Text-Instruction-Text",
          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-         "isInteractive": true,
+         "isInteractive": false,
          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
          "text": null,
          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
@@ -220,7 +220,7 @@
       "longDescription": null,
       "isInteractive": true,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_4.webp",
-      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique4.json",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique11.json",
       "techniqueInstructions": [
          {
           "techniqueInteractionType": {
@@ -244,7 +244,7 @@
           },
           "name": "UserAction-Text-Instruction-Text",
           "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
+          "isInteractive": false,
           "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
           "text": null,
           "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
@@ -291,7 +291,7 @@
       "longDescription": null,
       "isInteractive": true,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_5.webp",
-      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique5.json",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique12.json",
       "techniqueInstructions": [
         {
          "techniqueInteractionType": {
@@ -315,7 +315,7 @@
          },
          "name": "UserAction-Text-Instruction-Audio",
          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-         "isInteractive": true,
+         "isInteractive": false,
          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
          "text": null,
          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
@@ -360,7 +360,7 @@
       "name": "Turning from you Old Perspective",
       "shortDescription": null,
       "longDescription": null,
-      "isInteractive": true,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_6.webp",
       "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique8.json",
       "techniqueInstructions": [
@@ -386,7 +386,7 @@
          },
          "name": "UserAction-Text-Instruction-Audio",
          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-         "isInteractive": true,
+         "isInteractive": false,
          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
          "text": null,
          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
@@ -431,7 +431,7 @@
       "name": "Turning to Your New Perspective",
       "shortDescription": null,
       "longDescription": null,
-      "isInteractive": true,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_7.webp",
       "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique6.json",
       "techniqueInstructions": [
@@ -457,7 +457,7 @@
          },
          "name": "UserAction-Text-Instruction-Text",
          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-         "isInteractive": true,
+         "isInteractive": false,
          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
          "text": null,
          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
@@ -502,7 +502,7 @@
       "name": "Withhold Judgment",
       "shortDescription": null,
       "longDescription": null,
-      "isInteractive": true,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_8.webp",
       "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique7.json",
       "techniqueInstructions": [
@@ -528,7 +528,7 @@
          },
          "name": "UserAction-Text-Instruction-Audio",
          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-         "isInteractive": true,
+         "isInteractive": false,
          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
          "text": null,
          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
@@ -573,9 +573,9 @@
       "name": "You Don't Need to Have All the Answers",
       "shortDescription": null,
       "longDescription": null,
-      "isInteractive": true,
+      "isInteractive": false,
       "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_9.webp",
-      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique9.json",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique3.json",
       "techniqueInstructions": [
         {
          "techniqueInteractionType": {
@@ -599,7 +599,7 @@
          },
          "name": "UserAction-Text-Instruction-Text",
          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-         "isInteractive": true,
+         "isInteractive": false,
          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
          "text": null,
          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",

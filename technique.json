@@ -1,855 +1,838 @@
 {
-    "totalCount": 9,
-    "items": [
-      {
-        "name": "Turning from Your Old Perspective",
-        "shortDescription": "Is there something wrong with me?",
-        "longDescription": null,
-        "isInteractive": true,
-        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_1.webp",
-        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique1.json",
-        "techniqueInstructions": [
-          {
-           "techniqueInteractionType": {
-             "name": "UserAction-Listen",
-             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-           },
+  "totalCount": 9,
+  "items": [
+    {
+      "name": "Turning from Your Old Perspective",
+      "shortDescription": "Is there something wrong with me?",
+      "longDescription": null,
+      "isInteractive": true,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_1.webp",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique1.json",
+      "techniqueInstructions": [
+        {
+         "techniqueInteractionType": {
            "name": "UserAction-Listen",
-           "shortDescription": "Great work!",
-           "longDescription": "Your focus is going to pay off!",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-           "sequenceNo": 1,
-           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+           "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
          },
-         {
-            "techniqueInteractionType": {
-              "name": "UserAction-Listen",
-              "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-            },
-            "name": "UserAction-Listen",
-            "shortDescription": "Wow, that was amazing!",
-            "longDescription": "Your found a freedom.",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-            "isInteractive": true,
-            "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-            "text": null,
-            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-            "sequenceNo": 2,
-            "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-         },
-         {
-            "techniqueInteractionType": {
-              "name": "UserAction-Listen",
-              "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-            },
-            "name": "UserAction-Listen",
-            "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-            "isInteractive": true,
-            "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-            "text": null,
-            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-            "sequenceNo": 3,
-            "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-         },
-         {
-            "techniqueInteractionType": {
-              "name": "UserAction-Listen",
-              "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-            },
-            "name": "UserAction-Listen",
-            "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-            "isInteractive": true,
-            "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-            "text": null,
-            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-            "sequenceNo": 4,
-            "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-         },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Echo",
-             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-           },
-           "name": "UserAction-Echo",
-            "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-           "text": null,
-           "media": null,
-           "mediaFile": null,
-           "sequenceNo": 4,
-           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
-         },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Post",
-             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-           },
-           "name": "UserAction-Post",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-           "sequenceNo": 3,
-           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-         }
-       ],
-         "id": "e0e4567a-ca51-2d34-03b4-39fa2bc8bd57"
-      },
-      {
-        "name": "Have Clear Boundaries",
-        "shortDescription": "No Means No?",
-        "longDescription": null,
-        "isInteractive": true,
-        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_2.webp",
-        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique2.json",
-        "techniqueInstructions": [
-          {
-           "techniqueInteractionType": {
-             "name": "UserAction-Listen",
-             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-           },
-           "name": "UserAction-Listen",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-           "sequenceNo": 1,
-           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-         },
-         {
+         "name": "UserAction-Listen",
+         "shortDescription": "Great work!",
+         "longDescription": "Your focus is going to pay off!",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique1.json",
+         "sequenceNo": 1,
+         "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
           "techniqueInteractionType": {
-            "name": "UserAction-Minute-Move",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
+            "name": "UserAction-Listen",
+            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
           },
-          "name": "UserAction-Minute-Move",
-          "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "name": "UserAction-Listen",
+          "shortDescription": "Wow, that was amazing!",
+          "longDescription": "Your found a freedom.",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
           "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+          "text": null,
+          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/dance.mp3",
+          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/jumping.json",
+          "sequenceNo": 2,
+          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+          "techniqueInteractionType": {
+            "name": "UserAction-Listen",
+            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+          },
+          "name": "UserAction-Listen",
+          "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": true,
+          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+          "text": null,
+          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/third.mp3",
+          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique2.json",
+          "sequenceNo": 3,
+          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+          "techniqueInteractionType": {
+            "name": "UserAction-Listen",
+            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+          },
+          "name": "UserAction-Listen",
+          "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": true,
+          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
           "text": null,
           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-          "sequenceNo": 2,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
-        },
+          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique3.json",
+          "sequenceNo": 4,
+          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+         "techniqueInteractionType": {
+           "name": "UserAction-Post",
+           "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+         },
+         "name": "UserAction-Post",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique2.json",
+         "sequenceNo": 4,
+         "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+       }
+     ],
+       "id": "e0e4567a-ca51-2d34-03b4-39fa2bc8bd57"
+    },
+    {
+      "name": "Have Clear Boundaries",
+      "shortDescription": "No Means No?",
+      "longDescription": null,
+      "isInteractive": true,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_2.webp",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique2.json",
+      "techniqueInstructions": [
         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Text-Instruction-Audio",
-             "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-           },
+         "techniqueInteractionType": {
+           "name": "UserAction-Listen",
+           "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+         },
+         "name": "UserAction-Listen",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+         "sequenceNo": 1,
+         "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+        "techniqueInteractionType": {
+          "name": "UserAction-Minute-Move",
+          "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
+        },
+        "name": "UserAction-Minute-Move",
+        "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+        "isInteractive": true,
+        "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+        "text": null,
+        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+        "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+        "sequenceNo": 2,
+        "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
+      },
+      {
+         "techniqueInteractionType": {
            "name": "UserAction-Text-Instruction-Audio",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.lrc",
-           "sequenceNo": 2,
-           "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+           "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
          },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Reflection",
-             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-           },
+         "name": "UserAction-Text-Instruction-Audio",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.lrc",
+         "sequenceNo": 2,
+         "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+       },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Reflection",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-           "text": null,
-           "media": null,
-           "mediaFile": null,
-           "sequenceNo": 4,
-           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+           "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
          },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Post",
-             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-           },
+         "name": "UserAction-Reflection",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+         "text": null,
+         "media": null,
+         "mediaFile": null,
+         "sequenceNo": 4,
+         "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+       },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Post",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-           "sequenceNo": 3,
-           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-         }
-       ],
-        "id": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49"
+           "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+         },
+         "name": "UserAction-Post",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+         "sequenceNo": 3,
+         "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+       }
+     ],
+      "id": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49"
+    },
+    {
+      "name": "There are Ups and Down in Life",
+      "shortDescription": "There are Ups and Down in Life?",
+      "longDescription": null,
+      "isInteractive": true,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_3.webp",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique10.json",
+      "techniqueInstructions": [
+        {
+         "techniqueInteractionType": {
+           "name": "UserAction-Listen",
+           "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+         },
+         "name": "UserAction-Listen",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+         "sequenceNo": 1,
+         "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+        "techniqueInteractionType": {
+          "name": "UserAction-Minute-Move",
+          "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
+        },
+        "name": "UserAction-Minute-Move",
+        "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+        "isInteractive": true,
+        "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+        "text": null,
+        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+        "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+        "sequenceNo": 2,
+        "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
       },
       {
-        "name": "There are Ups and Down in Life",
-        "shortDescription": "There are Ups and Down in Life?",
-        "longDescription": null,
-        "isInteractive": true,
-        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_3.webp",
-        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique10.json",
-        "techniqueInstructions": [
-          {
-           "techniqueInteractionType": {
-             "name": "UserAction-Listen",
-             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-           },
-           "name": "UserAction-Listen",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-           "sequenceNo": 1,
-           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+         "techniqueInteractionType": {
+           "name": "UserAction-Text-Instruction-Text",
+           "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
          },
+         "name": "UserAction-Text-Instruction-Text",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": false,
+         "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+         "text": null,
+         "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+         "mediaFile": null,
+         "sequenceNo": 2,
+         "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+       },
+       {
+         "techniqueInteractionType": {
+           "name": "UserAction-Echo",
+           "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+         },
+         "name": "UserAction-Echo",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+         "text": null,
+         "media": null,
+         "mediaFile": null,
+         "sequenceNo": 4,
+         "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+       },
+       {
+         "techniqueInteractionType": {
+           "name": "UserAction-Post",
+           "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+         },
+         "name": "UserAction-Post",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+         "sequenceNo": 3,
+         "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+       }
+     ],
+      "id": "b660068d-3252-8a5c-40b0-39fa2bc8bd47"
+    },
+    {
+      "name": "Withhold Judgment",
+      "shortDescription": "Who are you to Judge?",
+      "longDescription": null,
+      "isInteractive": true,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_4.webp",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique11.json",
+      "techniqueInstructions": [
          {
           "techniqueInteractionType": {
-            "name": "UserAction-Minute-Move",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
+            "name": "UserAction-Listen",
+            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
           },
-          "name": "UserAction-Minute-Move",
+          "name": "UserAction-Listen",
           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
           "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
           "text": null,
           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-          "sequenceNo": 2,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
+          "sequenceNo": 1,
+          "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
         },
         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Text-Instruction-Text",
-             "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-           },
-           "name": "UserAction-Text-Instruction-Text",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": false,
-           "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-           "text": null,
-           "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-           "mediaFile": null,
-           "sequenceNo": 2,
-           "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
-         },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Echo",
-             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-           },
-           "name": "UserAction-Echo",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-           "text": null,
-           "media": null,
-           "mediaFile": null,
-           "sequenceNo": 4,
-           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
-         },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Post",
-             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-           },
-           "name": "UserAction-Post",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-           "sequenceNo": 3,
-           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-         }
-       ],
-        "id": "b660068d-3252-8a5c-40b0-39fa2bc8bd47"
-      },
-      {
-        "name": "Withhold Judgment",
-        "shortDescription": "Who are you to Judge?",
-        "longDescription": null,
-        "isInteractive": true,
-        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_4.webp",
-        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique11.json",
-        "techniqueInstructions": [
-           {
-            "techniqueInteractionType": {
-              "name": "UserAction-Listen",
-              "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-            },
-            "name": "UserAction-Listen",
-            "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-            "isInteractive": true,
-            "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-            "text": null,
-            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-            "sequenceNo": 1,
-            "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-          },
-          {
-           "techniqueInteractionType": {
-             "name": "UserAction-Minute-Move",
-             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
-           },
+         "techniqueInteractionType": {
            "name": "UserAction-Minute-Move",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-           "sequenceNo": 2,
-           "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
+           "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
          },
-         {
-            "techniqueInteractionType": {
-              "name": "UserAction-Text-Instruction-Text",
-              "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-            },
+         "name": "UserAction-Minute-Move",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+         "sequenceNo": 2,
+         "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
+       },
+       {
+          "techniqueInteractionType": {
             "name": "UserAction-Text-Instruction-Text",
-            "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-            "isInteractive": false,
-            "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-            "text": null,
-            "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-            "mediaFile": null,
-            "sequenceNo": 2,
-            "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+            "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
           },
-          {
-            "techniqueInteractionType": {
-              "name": "UserAction-Echo",
-              "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-            },
+          "name": "UserAction-Text-Instruction-Text",
+          "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": false,
+          "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+          "text": null,
+          "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+          "mediaFile": null,
+          "sequenceNo": 2,
+          "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+        },
+        {
+          "techniqueInteractionType": {
             "name": "UserAction-Echo",
-            "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-            "isInteractive": true,
-            "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-            "text": null,
-            "media": null,
-            "mediaFile": null,
-            "sequenceNo": 4,
-            "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+            "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
           },
-          {
-            "techniqueInteractionType": {
-              "name": "UserAction-Post",
-              "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-            },
+          "name": "UserAction-Echo",
+          "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": true,
+          "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+          "text": null,
+          "media": null,
+          "mediaFile": null,
+          "sequenceNo": 4,
+          "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+        },
+        {
+          "techniqueInteractionType": {
             "name": "UserAction-Post",
-            "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-            "isInteractive": true,
-            "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-            "text": null,
-            "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-            "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-            "sequenceNo": 3,
-            "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-          }
-        ],
-        "id": "80f10233-5e8f-3f1a-7bdd-39fa2bc8bd3b"
-      },
-      {
-        "name": "You Don’t Need to Have All the Answers",
-        "shortDescription": "If perfection is a myth, why do we keep trying?",
-        "longDescription": null,
+            "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+          },
+          "name": "UserAction-Post",
+          "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+          "isInteractive": true,
+          "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+          "text": null,
+          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+          "sequenceNo": 3,
+          "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+        }
+      ],
+      "id": "80f10233-5e8f-3f1a-7bdd-39fa2bc8bd3b"
+    },
+    {
+      "name": "You Don’t Need to Have All the Answers",
+      "shortDescription": "If perfection is a myth, why do we keep trying?",
+      "longDescription": null,
+      "isInteractive": true,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_5.webp",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique4.json",
+      "techniqueInstructions": [
+        {
+         "techniqueInteractionType": {
+           "name": "UserAction-Listen",
+           "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+         },
+         "name": "UserAction-Listen",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+         "sequenceNo": 1,
+         "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+        "techniqueInteractionType": {
+          "name": "UserAction-Minute-Move",
+          "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
+        },
+        "name": "UserAction-Minute-Move",
+        "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
         "isInteractive": true,
-        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_5.webp",
-        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique4.json",
-        "techniqueInstructions": [
-          {
-           "techniqueInteractionType": {
-             "name": "UserAction-Listen",
-             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-           },
-           "name": "UserAction-Listen",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-           "sequenceNo": 1,
-           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-         },
-         {
-          "techniqueInteractionType": {
-            "name": "UserAction-Minute-Move",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
-          },
-          "name": "UserAction-Minute-Move",
-          "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-          "sequenceNo": 2,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
-        },
-        {
-           "techniqueInteractionType": {
-             "name": "UserAction-Text-Instruction-Audio",
-             "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-           },
-           "name": "UserAction-Text-Instruction-Audio",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": false,
-           "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.lrc",
-           "sequenceNo": 2,
-           "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
-         },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Reflection",
-             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-           },
-           "name": "UserAction-Reflection",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-           "text": null,
-           "media": null,
-           "mediaFile": null,
-           "sequenceNo": 4,
-           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
-         },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Post",
-             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-           },
-           "name": "UserAction-Post",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-           "sequenceNo": 3,
-           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-         }
-       ],
-        "id": "68e2a439-cc5b-7a3f-3728-39fa2bc8bc56"
+        "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+        "text": null,
+        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+        "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+        "sequenceNo": 2,
+        "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
       },
       {
-        "name": "Listen",
-        "shortDescription": "Can you hear me?",
-        "longDescription": null,
-        "isInteractive": false,
-        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_6.webp",
-        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique8.json",
-        "techniqueInstructions": [
-          {
-           "techniqueInteractionType": {
-             "name": "UserAction-Listen",
-             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-           },
-           "name": "UserAction-Listen",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-           "sequenceNo": 1,
-           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
-         },
-         {
-          "techniqueInteractionType": {
-            "name": "UserAction-Minute-Move",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
-          },
-          "name": "UserAction-Minute-Move",
-          "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-          "sequenceNo": 2,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
-        },
-        {
-           "techniqueInteractionType": {
-             "name": "UserAction-Text-Instruction-Audio",
-             "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-           },
+         "techniqueInteractionType": {
            "name": "UserAction-Text-Instruction-Audio",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": false,
-           "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.lrc",
-           "sequenceNo": 2,
-           "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+           "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
          },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Reflection",
-             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-           },
+         "name": "UserAction-Text-Instruction-Audio",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": false,
+         "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.lrc",
+         "sequenceNo": 2,
+         "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+       },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Reflection",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-           "text": null,
-           "media": null,
-           "mediaFile": null,
-           "sequenceNo": 4,
-           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+           "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
          },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Post",
-             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-           },
+         "name": "UserAction-Reflection",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+         "text": null,
+         "media": null,
+         "mediaFile": null,
+         "sequenceNo": 4,
+         "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+       },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Post",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-           "sequenceNo": 3,
-           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-         }
-       ],
-        "id": "b2552a0b-157d-8342-987a-39fa2bc8bb22"
+           "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+         },
+         "name": "UserAction-Post",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+         "sequenceNo": 3,
+         "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+       }
+     ],
+      "id": "68e2a439-cc5b-7a3f-3728-39fa2bc8bc56"
+    },
+    {
+      "name": "Listen",
+      "shortDescription": "Can you hear me?",
+      "longDescription": null,
+      "isInteractive": false,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_6.webp",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique8.json",
+      "techniqueInstructions": [
+        {
+         "techniqueInteractionType": {
+           "name": "UserAction-Listen",
+           "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+         },
+         "name": "UserAction-Listen",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+         "sequenceNo": 1,
+         "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+        "techniqueInteractionType": {
+          "name": "UserAction-Minute-Move",
+          "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
+        },
+        "name": "UserAction-Minute-Move",
+        "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+        "isInteractive": true,
+        "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+        "text": null,
+        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+        "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+        "sequenceNo": 2,
+        "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
       },
       {
-        "name": "Know Thyself",
-        "shortDescription": "Who am I?",
-        "longDescription": null,
-        "isInteractive": false,
-        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_7.webp",
-        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique6.json",
-        "techniqueInstructions": [
-          {
-           "techniqueInteractionType": {
-             "name": "UserAction-Listen",
-             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-           },
-           "name": "UserAction-Listen",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-           "sequenceNo": 1,
-           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+         "techniqueInteractionType": {
+           "name": "UserAction-Text-Instruction-Audio",
+           "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
          },
-         {
-          "techniqueInteractionType": {
-            "name": "UserAction-Minute-Move",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
-          },
-          "name": "UserAction-Minute-Move",
-          "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-          "sequenceNo": 2,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
-        },
+         "name": "UserAction-Text-Instruction-Audio",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": false,
+         "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/instructions.lrc",
+         "sequenceNo": 2,
+         "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+       },
+       {
+         "techniqueInteractionType": {
+           "name": "UserAction-Reflection",
+           "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
+         },
+         "name": "UserAction-Reflection",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+         "text": null,
+         "media": null,
+         "mediaFile": null,
+         "sequenceNo": 4,
+         "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+       },
+       {
+         "techniqueInteractionType": {
+           "name": "UserAction-Post",
+           "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+         },
+         "name": "UserAction-Post",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+         "sequenceNo": 3,
+         "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+       }
+     ],
+      "id": "b2552a0b-157d-8342-987a-39fa2bc8bb22"
+    },
+    {
+      "name": "Know Thyself",
+      "shortDescription": "Who am I?",
+      "longDescription": null,
+      "isInteractive": false,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_7.webp",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique6.json",
+      "techniqueInstructions": [
         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Text-Instruction-Text",
-             "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
-           },
+         "techniqueInteractionType": {
+           "name": "UserAction-Listen",
+           "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+         },
+         "name": "UserAction-Listen",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+         "sequenceNo": 1,
+         "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+        "techniqueInteractionType": {
+          "name": "UserAction-Minute-Move",
+          "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
+        },
+        "name": "UserAction-Minute-Move",
+        "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+        "isInteractive": true,
+        "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+        "text": null,
+        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+        "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+        "sequenceNo": 2,
+        "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
+      },
+      {
+         "techniqueInteractionType": {
            "name": "UserAction-Text-Instruction-Text",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": false,
-           "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
-           "text": null,
-           "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
-           "mediaFile": null,
-           "sequenceNo": 2,
-           "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+           "id": "45371304-d7cb-c57d-d115-39fa5816d4f5"
          },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Echo",
-             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-           },
+         "name": "UserAction-Text-Instruction-Text",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": false,
+         "interactionTypeId": "45371304-d7cb-c57d-d115-39fa5816d4f5",
+         "text": null,
+         "media": "https://doloop-staging.s3.ap-south-1.amazonaws.com/techniques/media/ca388ca6-a521-4eb0-83b8-d2f1bf4f6af2.mp4",
+         "mediaFile": null,
+         "sequenceNo": 2,
+         "id": "dae9e508-2682-7b09-10f3-39fa5816d622"
+       },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Echo",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-           "text": null,
-           "media": null,
-           "mediaFile": null,
-           "sequenceNo": 4,
-           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+           "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
          },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Post",
-             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-           },
+         "name": "UserAction-Echo",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+         "text": null,
+         "media": null,
+         "mediaFile": null,
+         "sequenceNo": 4,
+         "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+       },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Post",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-           "sequenceNo": 3,
-           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-         }
-       ],
-        "id": "3a3e0c6d-218e-c6fb-9241-39fa2bc8bd64"
-      },
-      {
-        "name": "Finding My Voice",
-        "shortDescription": "Speak to be heard",
-        "longDescription": null,
-        "isInteractive": false,
-        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_8.webp",
-        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique7.json",
-        "techniqueInstructions": [
-          {
-           "techniqueInteractionType": {
-             "name": "UserAction-Listen",
-             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-           },
-           "name": "UserAction-Listen",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-           "sequenceNo": 1,
-           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+           "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
          },
-         {
-          "techniqueInteractionType": {
-            "name": "UserAction-Minute-Move",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
-          },
+         "name": "UserAction-Post",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+         "sequenceNo": 3,
+         "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+       }
+     ],
+      "id": "3a3e0c6d-218e-c6fb-9241-39fa2bc8bd64"
+    },
+    {
+      "name": "Finding My Voice",
+      "shortDescription": "Speak to be heard",
+      "longDescription": null,
+      "isInteractive": false,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_8.webp",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique7.json",
+      "techniqueInstructions": [
+        {
+         "techniqueInteractionType": {
+           "name": "UserAction-Listen",
+           "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+         },
+         "name": "UserAction-Listen",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+         "sequenceNo": 1,
+         "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+        "techniqueInteractionType": {
           "name": "UserAction-Minute-Move",
-          "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-          "sequenceNo": 2,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
+          "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
         },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Reflection",
-             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-           },
+        "name": "UserAction-Minute-Move",
+        "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+        "isInteractive": true,
+        "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+        "text": null,
+        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+        "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+        "sequenceNo": 2,
+        "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
+      },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Reflection",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-           "text": null,
-           "media": null,
-           "mediaFile": null,
-           "sequenceNo": 2,
-           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+           "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
          },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Post",
-             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-           },
+         "name": "UserAction-Reflection",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+         "text": null,
+         "media": null,
+         "mediaFile": null,
+         "sequenceNo": 2,
+         "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+       },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Post",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-           "sequenceNo": 3,
-           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-         }
-       ],
-        "id": "10f562b2-ba53-8998-5069-39fa2bc8bc63"
-      },
-      {
-        "name": "Turning to Your New Perspective",
-        "shortDescription": "Can you take a life detour?",
-        "longDescription": null,
-        "isInteractive": false,
-        "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_9.webp",
-        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique3.json",
-        "techniqueInstructions": [
-          {
-           "techniqueInteractionType": {
-             "name": "UserAction-Listen",
-             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
-           },
+           "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+         },
+         "name": "UserAction-Post",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+         "sequenceNo": 3,
+         "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+       }
+     ],
+      "id": "10f562b2-ba53-8998-5069-39fa2bc8bc63"
+    },
+    {
+      "name": "Turning to Your New Perspective",
+      "shortDescription": "Can you take a life detour?",
+      "longDescription": null,
+      "isInteractive": false,
+      "image": "https://raw.githubusercontent.com/vickypoojari/media/main/ic_technique_9.webp",
+      "media": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique3.json",
+      "techniqueInstructions": [
+        {
+         "techniqueInteractionType": {
            "name": "UserAction-Listen",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-           "sequenceNo": 1,
-           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+           "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
          },
-         {
-          "techniqueInteractionType": {
-            "name": "UserAction-Minute-Move",
-            "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
-          },
+         "name": "UserAction-Listen",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+         "sequenceNo": 1,
+         "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+       },
+       {
+        "techniqueInteractionType": {
           "name": "UserAction-Minute-Move",
-          "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
-          "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
-          "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
-          "sequenceNo": 2,
-          "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
+          "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g"
         },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Echo",
-             "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-           },
+        "name": "UserAction-Minute-Move",
+        "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+        "isInteractive": true,
+        "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59g",
+        "text": null,
+        "media": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.mp3",
+        "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/meditate.lrc",
+        "sequenceNo": 2,
+        "id": "c8a38098-7976-2435-ef2f-39fa5816d65g"
+      },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Echo",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-           "text": null,
-           "media": null,
-           "mediaFile": null,
-           "sequenceNo": 2,
-           "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+           "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
          },
-         {
-           "techniqueInteractionType": {
-             "name": "UserAction-Post",
-             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
-           },
+         "name": "UserAction-Echo",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
+         "text": null,
+         "media": null,
+         "mediaFile": null,
+         "sequenceNo": 2,
+         "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
+       },
+       {
+         "techniqueInteractionType": {
            "name": "UserAction-Post",
-           "shortDescription": "",
-            "longDescription": "",
-            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-           "isInteractive": true,
-           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
-           "text": null,
-           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
-           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
-           "sequenceNo": 3,
-           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
-         }
-       ],
-        "id": "5404346b-c2c1-d7b0-bebc-39fa2bc8bc73"
-      }
-    ]
-  }
-  
-  
-  
+           "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+         },
+         "name": "UserAction-Post",
+         "shortDescription": "",
+          "longDescription": "",
+          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+         "isInteractive": true,
+         "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+         "text": null,
+         "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+         "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/sample.lrc",
+         "sequenceNo": 3,
+         "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+       }
+     ],
+      "id": "5404346b-c2c1-d7b0-bebc-39fa2bc8bc73"
+    }
+  ]
+}
+
+
+

@@ -77,23 +77,6 @@
           "sequenceNo": 4,
           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
        },
-        {
-         "techniqueInteractionType": {
-           "name": "UserAction-Echo",
-           "id": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6"
-         },
-         "name": "UserAction-Echo",
-         "shortDescription": "",
-          "longDescription": "",
-          "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-         "isInteractive": true,
-         "interactionTypeId": "dbd7a8f2-03f5-4656-fc49-39fa5816d5d6",
-         "text": null,
-         "media": null,
-         "mediaFile": null,
-         "sequenceNo": 4,
-         "id": "ba8904d4-65fa-995f-f49a-39fa5816d6c4"
-       },
        {
          "techniqueInteractionType": {
            "name": "UserAction-Post",

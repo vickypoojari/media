@@ -38,8 +38,8 @@
           "isInteractive": false,
           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
           "text": null,
-          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/dance.mp3",
-          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/jumping.json",
+          "media": "https://raw.githubusercontent.com/vickypoojari/media/main/second.mp3",
+          "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/dance.json",
           "sequenceNo": 2,
           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
        },

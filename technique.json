@@ -350,14 +350,14 @@
        },
        {
           "techniqueInteractionType": {
-            "name": "UserAction-Listen",
+            "name": "UserAction-Text-Instruction-Audio",
             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
           },
-          "name": "UserAction-Listen",
+          "name": "UserAction-Text-Instruction-Audio",
           "shortDescription": "",
           "longDescription": "",
           "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
-          "isInteractive": true,
+          "isInteractive": false,
           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
           "text": null,
           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/fourth.mp3",

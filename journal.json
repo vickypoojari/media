@@ -1,0 +1,141 @@
+{
+    "totalCount": 3,
+    "items": [
+      {
+        "name": "Audio Journal",
+        "shortDescription": "",
+        "longDescription": "",
+        "isInteractive": true,
+        "image": "",
+        "journalInstructions": [
+          {
+           "journalInteractionType": {
+             "name": "UserAction-Echo",
+             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+           },
+           "name": "UserAction-Echo",
+           "shortDescription": "Great work!",
+           "longDescription": "Your focus is going to pay off!",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+           "isInteractive": false,
+           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+           "text": null,
+           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/firsts.mp3",
+           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique1.json",
+           "sequenceNo": 1,
+           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+         },
+         {
+           "techniqueInteractionType": {
+             "name": "UserAction-Post",
+             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+           },
+           "name": "UserAction-Post",
+           "shortDescription": "",
+            "longDescription": "",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+           "isInteractive": false,
+           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+           "text": null,
+           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique2.json",
+           "sequenceNo": 2,
+           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+         }
+       ],
+         "id": "e0e4567a-ca51-2d34-03b4-39fa2bc8bd57"
+      },
+      {
+        "name": "Video Journal",
+        "shortDescription": "",
+        "longDescription": "",
+        "isInteractive": true,
+        "image": "",
+        "journalInstructions": [
+          {
+           "journalInteractionType": {
+             "name": "UserAction-Reflection",
+             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+           },
+           "name": "UserAction-Reflection",
+           "shortDescription": "Great work!",
+           "longDescription": "Your focus is going to pay off!",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+           "isInteractive": false,
+           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+           "text": null,
+           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/firsts.mp3",
+           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique1.json",
+           "sequenceNo": 1,
+           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+         },
+         {
+           "techniqueInteractionType": {
+             "name": "UserAction-Post",
+             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+           },
+           "name": "UserAction-Post",
+           "shortDescription": "",
+            "longDescription": "",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+           "isInteractive": false,
+           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+           "text": null,
+           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique2.json",
+           "sequenceNo": 2,
+           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+         }
+       ],
+         "id": "e0e4567a-ca51-2d34-03b4-39fa2bc8bd57"
+      },
+      {
+        "name": "Notes Journal",
+        "shortDescription": "",
+        "longDescription": "",
+        "isInteractive": true,
+        "image": "",
+        "journalInstructions": [
+          {
+           "journalInteractionType": {
+             "name": "UserAction-Notes",
+             "id": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f"
+           },
+           "name": "UserAction-Notes",
+           "shortDescription": "Great work!",
+           "longDescription": "Your focus is going to pay off!",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+           "isInteractive": false,
+           "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
+           "text": null,
+           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/firsts.mp3",
+           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique1.json",
+           "sequenceNo": 1,
+           "id": "c8a38098-7976-2435-ef2f-39fa5816d658"
+         },
+         {
+           "techniqueInteractionType": {
+             "name": "UserAction-Post",
+             "id": "c4451144-1436-54e1-e538-39fa5816d5e1"
+           },
+           "name": "UserAction-Post",
+           "shortDescription": "",
+            "longDescription": "",
+            "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
+           "isInteractive": false,
+           "interactionTypeId": "c4451144-1436-54e1-e538-39fa5816d5e1",
+           "text": null,
+           "media": "https://raw.githubusercontent.com/vickypoojari/media/main/doLoop.mp3",
+           "mediaFile": "https://raw.githubusercontent.com/vickypoojari/media/main/animation/technique2.json",
+           "sequenceNo": 2,
+           "id": "ee7acafe-b850-312d-6113-39fa5816d6d9"
+         }
+       ],
+         "id": "e0e4567a-ca51-2d34-03b4-39fa2bc8bd57"
+      }
+    ]
+  }
+  
+  
+  
+  

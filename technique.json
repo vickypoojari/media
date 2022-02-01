@@ -338,7 +338,7 @@
             },
             "name": "UserAction-Listen",
             "shortDescription": "Great work!",
-            "longDescription": "Get ready to video back.",
+            "longDescription": "Get ready to Video Back.",
             "techniqueId": "4a2d65da-cf7e-2f4f-20ea-39fa2bc8bc49",
             "isInteractive": true,
             "interactionTypeId": "07cecba1-69aa-ffa4-2f4c-39fa5816d59f",
